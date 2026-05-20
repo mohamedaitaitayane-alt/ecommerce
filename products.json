@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nom": "Ordinateur Portable",
+        "prix": 899.99,
+        "stock": 5
+    },
+    {
+        "id": 2,
+        "nom": "Souris Sans Fil",
+        "prix": 25.5,
+        "stock": 15
+    },
+    {
+        "id": 3,
+        "nom": "Écran 24 Pouces",
+        "prix": 149.0,
+        "stock": 8
+    },
+    {
+        "id": 4,
+        "nom": "Clavier Mécanique",
+        "prix": 79.9,
+        "stock": 10
+    }
+]
